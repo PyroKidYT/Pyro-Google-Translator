@@ -1,2 +1,2 @@
-openai
+# © PyroKid
 google-translate.py
